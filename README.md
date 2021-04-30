@@ -1,4 +1,5 @@
 # AWS ECS and Code Pipeline
+<img src="https://image-publiclink.s3.amazonaws.com/terraform.png" height="100">
 
 ![](https://image-publiclink.s3.amazonaws.com/terraform.png) ![](https://image-publiclink.s3.amazonaws.com/aws-logo.png)
 
